@@ -12,7 +12,7 @@ var questPasswordGeneretor;
 questPasswordGeneretor = function() {
 
     yourName = prompt("Ciao, come ti chiami?");
-    
+
     yourSurname = prompt("Piacere " + yourName +", di cognome?");
     
     yourAge = prompt( yourName + " " + yourSurname + ", quanti anni hai?");
